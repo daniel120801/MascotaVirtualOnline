@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "643191877079",
+    "firebase_url": "https://mascota-virtual-colaborativa-default-rtdb.firebaseio.com",
+    "project_id": "mascota-virtual-colaborativa",
+    "storage_bucket": "mascota-virtual-colaborativa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643191877079:android:c63ad8e541f15c62d66f92",
+        "android_client_info": {
+          "package_name": "com.ldvr.MVO"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643191877079-2gqgef8ib2u8jf4rcj9f75ascbafq28r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ldvr.MVO",
+            "certificate_hash": "c38d5bdc2067e605d7ab59b7b42690eff480aaa1"
+          }
+        },
+        {
+          "client_id": "643191877079-q4oecmpn4m0drsi5sri4o29f186pmncl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSrhVW3NNDzvJTB_qtjg_R3-OKekayoiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643191877079-q4oecmpn4m0drsi5sri4o29f186pmncl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
